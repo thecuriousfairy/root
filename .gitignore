@@ -33,3 +33,6 @@ replay_pid*
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 **/.history
+
+### target doesn't need to be saved either
+target/
